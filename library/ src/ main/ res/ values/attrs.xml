@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShimmerView">
+        <attr name="reflectionColor" format="color"/>c<؟ xml version = "1.0" encoding = "UTF-8"؟>
+<feed xml: lang = "en-US" xmlns = "http://www.w3.org/2005/Atom">
+  <id> العلامة: status.cocoapods.org، 2005: / التاريخ </ id>
+  <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org" />
+  <link rel = "self" type = "application / atom + xml" href = "https://status.cocoapods.org/history.atom" />
+  <title> حالة CocoaPods - تاريخ الحوادث </ title>
+  <محدث> 2018-05-19T22: 03: 40Z </ محدث>
+  <المؤلف>
+    <اسم> CocoaPods </ اسم>
+  </ المؤلف>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 1699799 </ id>
+    <المنشورة> 2018-05-19T22: 03: 40Z </ نشرت>
+    <محدث> 2018-05-19T22: 03: 40Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/nv5x12x37v0y" />
+    <title> بحث CocoaPods لا يستجيب </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ مايو & lt؛ var data-var = 'date' & gt؛ 19 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 22: 03 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تم إعادة إنشاء البحث من الصفر باستخدام فهرس Algolia بواسطةharoen و @ jugutier - لقد أضفنا أبسط نسخة من البحث على cocoapods.org ، حيث قمنا بإزالة الكثير من الميزات التي اعتدنا عليها. ما زال عدد هذه الميزات مرتبطًا في الهواء ، ولكنني أنتقل إلى التشغيل: +1: & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Apr & lt؛ var data-var = 'date '& gt؛ 21 & lt؛ / var & gt ؛، & lt؛ var data-var =' time '& gt؛ 18: 49 & lt؛ / var & gt؛ UTC العلامة & lt؛ / الصغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - نحن نحقق حاليًا في هذه المشكلة. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 971038 </ id>
+    <المنشورة> 2016-10-28T11: 46: 48Z </ نشرت>
+    <محدث> 2016-10-28T11: 46: 49Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/r0ph7qsxc0h2" />
+    <title> GitHub return 500 for Trunk Commit Pushes </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ Oct & lt؛ var data-var = 'date' & gt؛ 28 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 11: 46 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - يبدو أن كل الأمور قد عادت إلى طبيعتها في آخر ساعة: & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Oct & lt؛ var data-var = 'date' & gt؛ 28 & lt؛ / var & gt ؛، & lt؛ var data -var = 'الوقت' & GT؛ 07: 48 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - لست متأكدا إذا كان هناك أي شيء يمكننا القيام به هنا. لقد رأيت بعض الحزقات فقط تصفح GitHub ، لذلك أفترض أنه شيء على نطاق واسع أن hasn ' تم رفع على صفحات حالتها. ./& لتر؛ / P & GT؛ </ المحتوى>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 771239 </ id>
+    <المنشورة> 2016-09-15T22: 57: 00Z </ نشرت>
+    <محدث> 2016-09-15T22: 58: 02Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/n8whdzlzrvtd" />
+    <title> تم تعطيل دفع صندوق الأمتعة إلى GitHub </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ سبتمبر & lt؛ var data-var = 'date' & gt؛ 15 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 22: 57 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - على يقين من أن هذا كان مجرد مشكلة في واجهة برمجة تطبيقات GitHub التي تم إصلاحها على جانبها.
+& lt؛ br / & gt؛
+& lt؛ br / & gt؛ في الوقت نفسه ، أضفت المزيد من أدوات تصحيح الأخطاء للمشرفين الجذرين في حالة حدوث ذلك مرة أخرى.
+& lt؛ br / & gt؛
+& lt؛ br />؛./<؛/p>؛<؛p>؛<؛small>؛Sep & lt؛ var data-var = 'date' & gt؛ 15 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' وGT؛ 22: 21 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - إننا نشهد حاليًا مشاكل في إنشاء Podspecs على Repo من CocoaPods / Specs ، لذلك في الوقت الحالي يتم تعطيل تحميل Podspecs جديدة. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 759079 </ id>
+    <المنشورة> 2016-09-11T23: 03: 52Z </ نشرت>
+    <محدث> 2016-09-11T23: 03: 52Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/fplw90kg2f9t" />
+    <title> تغييرات شهادة SSL </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ سبتمبر & lt؛ var data-var = 'date' & gt؛ 11 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 23: 03 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، تم الانتهاء العلامة & lt؛ / قوية وGT. - كل ذلك - https://twitter.com/orta/status/775107106835951616<؛/p>؛<؛p>؛<؛small>؛Sep & lt؛ var data-var = 'date' & gt؛ 11 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 10: 00 & lt؛ / var & gt؛ UTC & lt؛ / small & gt؛ & lt؛ br & gt؛ & lt؛ strong & gt؛ قيد التنفيذ & lt؛ / strong & gt؛ - الصيانة المجدولة قيد التقدم حاليًا. سنقدم التحديثات عند الضرورة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ أيلول & lt؛ var data-var = 'date' وGT. 5 & ​​lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 16: 01 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، من المقرر العلامة & lt؛ / قوية وGT. - عادةً ما يكون هذا الانتقال بسيطًا ، ولكن يتعين علينا إجراء بعض التغييرات في البنية الأساسية ، ولا أريد أن أجزم عن تحميلات أي شخص خلال تلك الفترة.
+& lt؛ br / & gt؛
+& lt؛ br / & gt؛ ./ orta & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 469165 </ id>
+    <المنشورة> 2016-04-16T15: 13: 38Z </ نشرت>
+    <محدث> 2016-04-16T15: 13: 38Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/cnj095zbj822" />
+    <title> تحديث CocoaDocs إلى Xcode 7.3 </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أبريل & lt؛ var data-var = 'date' & gt؛ 16 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 15: 13 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - حسناً ، حسناً ، كان ذلك أسرع من المتوقع. اذهب لي. بعض النتائج المثيرة للاهتمام أيضًا ، https://twitter.com/orta/status/721342807538069504<؛/p>؛<؛p>؛<؛small>؛Apr & lt؛ var data-var = 'date' & gt؛ 16 & lt؛ / var & gt ؛، & lt ؛ var data-var = 'time' & gt؛ 12: 36 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - مرحبًا بكم ، كان يجب أن يحدث في وقت ما ، وهذا ما يحدث في نهاية هذا الأسبوع. بصراحة ، آخر مرة في 7.2 ، استغرق هذا الأمر أسبوعًا ، وأنا حقًا آمل حقاً أن يستغرق الأمر وقتًا أقل هذه المرة. ههه ، بالتأكيد. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 386221 </ id>
+    <المنشورة> 2015-12-27T21: 48: 07Z </ نشرت>
+    <محدث> 2015-12-27T21: 48: 07Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/7fp2fcjsyw0g" />
+    <title> `CocoaDocs Upgrading </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 27 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 21: 48 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - حسنًا ، يعمل خادم CocoaDocs أيضًا على الخادم كما هو على الجهاز ، يجب أن يكون على ما يرام. : +1: & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 27 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 09: 39 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - لقد بدأت تحديث Xcode المثبت على CocoaDocs وقم بإجراء صيانة النظام المعتادة. هذه ليست عملية بسيطة أبداً.
+& lt؛ br / & gt؛
+& lt؛ br / & gt؛ ./& lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 342733 </ id>
+    <المنشورة> 2015-10-24T06: 08: 24Z </ نشرت>
+    <محدث> 2015-10-24T06: 08: 25Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/p6vkckpgkysx" />
+    <title> تحديث برنامج CocoaDocs </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أكتوبر & lt؛ var data-var = 'date' & gt؛ 24 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 06: 08 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - حسنًا ، في الصباح ، كان MAS قد قام بتحديث Xcode - الآن يحتوي على 6.4 و 7.0.1 و 7.1 متاح للمشروعات السريعة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Oct & lt؛ var data-var = 'date '& gt؛ 23 & lt؛ / var & gt ؛، & lt؛ var data-var =' time '& gt؛ 20: 26 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، ومراقبة العلامة & lt؛ / قوية وGT. - قمت بتحديث نظام التشغيل Mac ، وقمت بإرجاع الخادم وتشغيله ولكن ليس على 7.1 حتى الآن. لذلك الانتقال إلى المراقبة ولكن ليس ثابتًا تمامًا. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ أكتوبر & lt؛ var data-var = 'date' & gt؛ 23 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 15: 55 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - تثبيت Xcode 7.1 لدعم Swift 2.1 ، والجرأة لضرب "زر التحديث" لتثبيت نظام التشغيل. لا تتوقع أن يكون ذلك طويلاً. & lt؛ / p & gt؛ </ content> لتثبيت نظام التشغيل. لا تتوقع أن يكون ذلك طويلاً. & lt؛ / p & gt؛ </ content> لتثبيت نظام التشغيل. لا تتوقع أن يكون ذلك طويلاً. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 319798 </ id>
+    <المنشورة> 2015-09-24T14: 27: 54Z </ نشرت>
+    <محدث> 2015-09-24T14: 27: 55Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/bnzyshybw94t" />
+    <title> العمل على CocoaDocs </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ Sep & lt؛ var data-var = 'date' & gt؛ 24 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 14: 27 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - نحن نعمل الآن على El Cap و Xcode 7 هو Xcode الافتراضي. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Sep & lt؛ var data-var = 'date' & gt؛ 22 & lt؛ / var & gt ؛، & lt ؛ var data-var = 'time' & gt؛ 18: 05 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، تحديث العلامة & lt؛ / قوية وGT. - يبدو أن حماية سلامة نظام El Cap تجعل هذا صعبًا بالفعل ، وقد يكون بضعة أيام أخرى. : - / & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ أيلول & lt؛ var data-var = 'date' & gt؛ 21 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 14: 43 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - نحن بصدد ترقية خادم CocoaDocs إلى Swift 2.0 و El Cap ، من الصعب تقدير الوقت الذي يمكن أن يستغرقه ذلك. سنقوم بإعادة تشغيل جميع القرون التي يتم إرسالها إلى صندوق البريد أثناء انقطاع الخدمة. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 318094 </ id>
+    <المنشورة> 2015-09-18T14: 43: 55Z </ نشرت>
+    <محدث> 2015-09-18T14: 43: 55Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/tsl7ys3qp8mf" />
+    <title> محرك البحث لأسفل & amp؛ حل </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ Sep & lt؛ var data-var = 'date' & gt؛ 18 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 14: 43 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تم حل هذه الحادثة. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 294159 </ id>
+    <المنشورة> 2015-08-10T10: 42: 11Z </ نشرت>
+    <محدث> 2015-08-10T10: 42: 11Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/vcgy3646pz20" />
+    <title> قضايا المنبع في Heroku & amp؛ جيثب. </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أغسطس & lt؛ var data-var = 'date' & gt؛ 10 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 10: 42 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تم حل هذه الحادثة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ أغسطس & lt؛ var data-var = 'date' & gt؛ 10 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt ؛ 10: 28 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - نحن نحقق حاليًا في هذه المشكلة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ أغسطس & lt؛ var data-var = 'date' & gt؛ 10 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' و GT؛ 10: 27 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، ومراقبة العلامة & lt؛ / قوية وGT. - تم تنفيذ الإصلاح ونقوم بمراقبة النتائج. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 213760 </ id>
+    <المنشورة> 2015-05-05T16: 55: 03Z </ نشرت>
+    <محدث> 2015-05-05T16: 55: 03Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/182k4zs1xcfq" />
+    <title> تحديث إلى Xcode 6.3 </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ قد يكون & lt؛ var data-var = 'date' & gt؛ 5 & ​​lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 16: 55 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - مظهر جيد. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ مايو & lt؛ var data-var = 'date' & gt؛ 5 & ​​lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 16: 18 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، ومراقبة العلامة & lt؛ / قوية وGT. - حصلت على تشغيل سريع 1.2 (تبين أن تثبيت Xcode غير تافه) تعيد تشغيل جميع المستندات من وقت التوقف. سيتم مراقبته لبضع ساعات بشكل دوري. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ مايو & lt؛ var data-var = 'date' & gt؛ 5 & ​​lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 11: 45 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - حسنًا ، حان الوقت لترقية Xcode على CocoaDocs. هذه واحدة من "يمكن أن تكون 10 دقائق" ، يمكن أن تكون 10 ساعات "نوع من الوظائف. تأمل في السابق. بعد هذا الدعم لـ Swift 1.2 سيكون الخيار الوحيد للتوثيق. Blame Apple لجعله من الصعب تشغيل عدة Xcode . العلامة & lt؛ / P & GT؛ </ المحتوى> يمكن أن يكون 10 دقائق ، "يمكن أن يكون 10 ساعات" نوع من الوظائف. تأمل في السابق. بعد هذا الدعم لـ Swift 1.2 سيكون الخيار الوحيد للتوثيق. إلقاء اللوم على Apple لتجعل من الصعب تشغيل العديد من Xcode. & lt؛ / p & gt؛ </ content> يمكن أن يكون 10 دقائق ، "يمكن أن يكون 10 ساعات" نوع من الوظائف. تأمل في السابق. بعد هذا الدعم لـ Swift 1.2 سيكون الخيار الوحيد للتوثيق. إلقاء اللوم على Apple لتجعل من الصعب تشغيل العديد من Xcode. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 201818 </ id>
+    <المنشورة> 2015-04-16T18: 36: 43Z </ نشرت>
+    <محدث> 2015-04-16T18: 36: 43Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/9snqsfspp717" />
+    <title> مشكلات مصادقة صندوق البريد </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أبريل & lt؛ var data-var = 'date' & gt؛ 16 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 18: 36 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تم حل هذه المشكلة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Apr & lt؛ var data-var = 'date' & gt؛ 16 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt ؛ 15: 44 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، ومراقبة العلامة & lt؛ / قوية وGT. - يبدو أنه قد انتهى ، سننظر في طرق للحماية من استخدام واجهة برمجة التطبيقات بدون مهلات. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ صغير & gt؛ أبريل & lt؛ var data-var = 'date' & gt؛ 16 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 15: 12 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - نواجه قدرًا غير معتاد من حركة HTTP إلى الجذع الذي يتسبب في انقضاء الوقت. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 196954 </ id>
+    <المنشورة> 2015-04-07T13: 06: 00Z </ نشرت>
+    <محدث> 2015-04-12T13: 11: 32Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/tvwl2fdr6zqg" />
+    <title> نقل إلى HTTPS </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أبريل & lt؛ var data-var = 'date' & gt؛ 7 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 13: 06 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - ليس حادثة بحد ذاتها بحد ذاتها ، ولكننا نقلنا غالبية مواقع ويب CocoaPods إلى HTTPS بالأمس ، لذلك إذا كنت تواجه مشكلات ، فالرجاء تشغيل محاولة تنظيف ذاكرة التخزين المؤقت على الويب. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 195568 </ id>
+    <المنشورة> 2015-04-03T12: 21: 47Z </ نشرت>
+    <محدث> 2015-04-03T12: 21: 47Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/ryb8vhjb2k19" />
+    <title> CocoaPods.org down </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ صغير & gt؛ أبريل & lt؛ var data-var = 'date' & gt؛ 3 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 12: 21 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - نحن نستخدم خطافات الويب heroku على الرئيسية لنشر الكثير من أدوات الويب. لقد تمكنت CocoaPods.org لكنها لم تنجح أبداً ، حتى الليلة الماضية في الساعة 4 صباحاً بتوقيت نيويورك ، وتراجع إلى ارتكاب منذ بضعة أيام ، مرتين. سعيد للعمل على ويبهوك ، ولكن ليس متأكدا تماما ما الذي أثار ذلك حتى الآن.
+& lt؛ br / & gt؛
+& lt؛ br / & gt؛ تم حلها من قِبل فلوريان هانكي. في الوقت الحالي ، يتم إيقاف تشغيل webhok ، حتى يمكن اختباره بشكل صحيح. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 186177 </ id>
+    <المنشورة> 2015-03-15T20: 56: 00Z </ نشرت>
+    <محدث> 2015-03-15T20: 56: 00Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/3jlrx40zj56l" />
+    <title> Trunk Offline </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ Mar & lt؛ var data-var = 'date' & gt؛ 15 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 20: 56 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تم تحديد هذه المشكلة وتم نشر حل لها. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ Mar & lt؛ var data-var = 'date' & gt؛ 15 & lt؛ / var & gt ؛، & lt؛ var data-var = 'الوقت' & GT؛ 20: 38 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التحقيق العلامة & lt؛ / قوية وGT. - نتوقع حاليًا حدوث انقطاع لـ Trunk في هذه المشكلة. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 158571 </ id>
+    <المنشورة> 2015-01-12T21: 04: 35Z </ نشرت>
+    <محدث> 2015-01-12T21: 04: 35Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/40ckmp3ml1x3" />
+    <title> CocoaDocs down for Maintenance </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ Jan & lt؛ var data-var = 'date' & gt؛ 12 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 21: 04 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - اكتملت تحديثات البرامج وتم تشغيل خادم CocoaDocs مرة أخرى. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ يناير & lt؛ var data-var = 'date' & gt؛ 11 & lt؛ / var & gt؛ و & lt؛ var بيانات فار = 'الوقت' & GT؛ 17: 28 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، ومراقبة العلامة & lt؛ / قوية وGT. - خادم CocoaDocs معطّل للصيانة المجدولة ، بما في ذلك ترقيات البرامج. & lt؛ / p & gt؛ </ content>
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 148000 </ id>
+    <المنشورة> 2014-12-18T23: 09: 12Z </ نشرت>
+    <محدث> 2014-12-18T23: 09: 12Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/nvv5tpkz0pf8" />
+    <title> CocoaDocs - New Pod Documentation Affect </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 18 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 23: 09 & lt ؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - تمت استعادة الجيل من وثائق القرون الجديدة. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 18 & lt؛ / var & gt ؛، & lt؛ var data-var = 'الوقت' & GT؛ 22: 06 العلامة & lt؛ / فار و GT. UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - هناك إخفاق حاليًا في تحميل CocoaDocs وثائق Pod جديدة إلى موقع الويب.
+  </ الدخول>
+  <دخول>
+    <id> العلامة: status.cocoapods.org 2005: حادث / 141028 </ id>
+    <المنشورة> 2014-12-02T09: 16: 31Z </ نشرت>
+    <محدث> 2014-12-02T09: 16: 31Z </ محدث>
+    <link rel = "alternate" type = "text / html" href = "https://status.cocoapods.org/incidents/lj6dqmtmbj94" />
+    <DNS> مشكلات DNS عبر DNSimple </ title>
+    <content type = "html"> & lt؛ p & gt؛ & lt؛ small & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 2 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 09: 16 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، حل العلامة & lt؛ / قوية وGT. - إذا كنت لا تزال تواجه هذه المشكلة ، فقد تحتاج إلى مسح ذاكرة التخزين المؤقت لنظام أسماء النطاقات. & lt؛ / p & gt؛ & lt؛ p & gt؛ & lt؛ small & gt؛ ديسمبر & lt؛ var data-var = 'date' & gt؛ 2 & lt؛ / var & gt ؛، & lt؛ var data-var = 'time' & gt؛ 08: 29 & lt؛ / var & gt؛ UTC العلامة & lt؛ / صغيرة وGT؛ & اللفتنانت؛ ر & GT؛ & لتر، قوية وGT، التي تم تحديدها العلامة & lt؛ / قوية وGT. - في 2 ديسمبر / كانون الأول ، تم إيقاف مضيف نظام أسماء النطاقات مما يجعل البحث والأدلة والمدونة غير قابلة للوصول - http: //dnsimplestatus.com<؛ / p & gt؛ </ content>
+  </ الدخول>
+</ تغذية>
